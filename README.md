@@ -95,3 +95,10 @@ The following datasets are supported:
 - **SolarAV** -- Solar power generation, 137 features
 
 Dataset files are located under `eval_pipelines/datasets/`.
+
+## Acknowledgments
+
+The core GraphSSM architecture and training framework in this repository are sourced from the Graph-Generating State Space Models project by Nikola Zubic and Davide Scaramuzza at the University of Zurich. Their work was published at CVPR 2025.
+
+- Paper: [GG-SSMs: Graph-Generating State Space Models](https://arxiv.org/abs/2412.12423)
+- Original repository: [uzh-rpg/gg_ssms](https://github.com/uzh-rpg/gg_ssms)
